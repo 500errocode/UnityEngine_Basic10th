@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\UnityEngine_Basic10th-main\UnityEngine_Basic10th-main\Csharp_10th\EnumType\bin\Debug\netcoreapp3.1\EnumType.exe
+C:\Users\User\Downloads\UnityEngine_Basic10th-main\UnityEngine_Basic10th-main\Csharp_10th\EnumType\bin\Debug\netcoreapp3.1\EnumType.deps.json
+C:\Users\User\Downloads\UnityEngine_Basic10th-main\UnityEngine_Basic10th-main\Csharp_10th\EnumType\bin\Debug\netcoreapp3.1\EnumType.runtimeconfig.json
+C:\Users\User\Downloads\UnityEngine_Basic10th-main\UnityEngine_Basic10th-main\Csharp_10th\EnumType\bin\Debug\netcoreapp3.1\EnumType.runtimeconfig.dev.json
+C:\Users\User\Downloads\UnityEngine_Basic10th-main\UnityEngine_Basic10th-main\Csharp_10th\EnumType\bin\Debug\netcoreapp3.1\EnumType.dll
+C:\Users\User\Downloads\UnityEngine_Basic10th-main\UnityEngine_Basic10th-main\Csharp_10th\EnumType\bin\Debug\netcoreapp3.1\EnumType.pdb
+C:\Users\User\Downloads\UnityEngine_Basic10th-main\UnityEngine_Basic10th-main\Csharp_10th\EnumType\obj\Debug\netcoreapp3.1\EnumType.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\UnityEngine_Basic10th-main\UnityEngine_Basic10th-main\Csharp_10th\EnumType\obj\Debug\netcoreapp3.1\EnumType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\UnityEngine_Basic10th-main\UnityEngine_Basic10th-main\Csharp_10th\EnumType\obj\Debug\netcoreapp3.1\EnumType.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\UnityEngine_Basic10th-main\UnityEngine_Basic10th-main\Csharp_10th\EnumType\obj\Debug\netcoreapp3.1\EnumType.AssemblyInfo.cs
+C:\Users\User\Downloads\UnityEngine_Basic10th-main\UnityEngine_Basic10th-main\Csharp_10th\EnumType\obj\Debug\netcoreapp3.1\EnumType.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\UnityEngine_Basic10th-main\UnityEngine_Basic10th-main\Csharp_10th\EnumType\obj\Debug\netcoreapp3.1\EnumType.dll
+C:\Users\User\Downloads\UnityEngine_Basic10th-main\UnityEngine_Basic10th-main\Csharp_10th\EnumType\obj\Debug\netcoreapp3.1\EnumType.pdb
+C:\Users\User\Downloads\UnityEngine_Basic10th-main\UnityEngine_Basic10th-main\Csharp_10th\EnumType\obj\Debug\netcoreapp3.1\EnumType.genruntimeconfig.cache

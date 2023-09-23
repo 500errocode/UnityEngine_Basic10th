@@ -1,0 +1,5 @@
+C:\Users\User\Downloads\UnityEngine_Basic10th-main\UnityEngine_Basic10th-main\Csharp_10th\Array\obj\Debug\netcoreapp3.1\Array.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\UnityEngine_Basic10th-main\UnityEngine_Basic10th-main\Csharp_10th\Array\obj\Debug\netcoreapp3.1\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\UnityEngine_Basic10th-main\UnityEngine_Basic10th-main\Csharp_10th\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\UnityEngine_Basic10th-main\UnityEngine_Basic10th-main\Csharp_10th\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+C:\Users\User\Downloads\UnityEngine_Basic10th-main\UnityEngine_Basic10th-main\Csharp_10th\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreCompileInputs.cache
