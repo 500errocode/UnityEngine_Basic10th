@@ -5,6 +5,7 @@ namespace Structure
 {
     // struct 구조체
     // 데이터와 기능을 정의하는 사용자 정의 자료형
+    // c# 에서의 구조체는 클래스를 값 타입으로 사용하기 위한 자료형
     //
     // 구조체 vs 클래스
     // 1. 멤버변수(데이터)의 쓰기/읽기가 빈번하게 일어나는 경우 값 타입이 참조타입보다 유리함
@@ -35,8 +36,19 @@ namespace Structure
                 _y = value;
             }
         }
+        public float z
+        {
+            get
+            {
+                return _z;
+            }
+            set
+            {
+                _z = value;
+            }
+        }
 
-        public float z;
+        public float _z;
         private float _x;
         private float _y;
 

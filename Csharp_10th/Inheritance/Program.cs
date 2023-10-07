@@ -8,7 +8,10 @@ namespace Inheritance
         static void Main(string[] args)
         {
             //PlayerbleCharacter playerbleCharacter = new PlayerbleCharacter();
-            SwordMan swordMan = new SwordMan();
+            PlayableCharacter swordMan = new SwordMan();
+            swordMan.Move();
+
+
             // 공변성 
             // 하위타입 객체를 기반타입으로 창조할수있는 성질.
             // 객체가 할당될때, 기반타입의 데이터로부터 차례대로 할당을 하기 때문에 가능함.

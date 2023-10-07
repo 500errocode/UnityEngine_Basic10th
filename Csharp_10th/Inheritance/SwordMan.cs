@@ -18,7 +18,7 @@ namespace Inheritance
         }
         public void  Fireball()
         {
-            Console.WriteLine("Fireball");
+            Console.WriteLine("Smash");
         }
     }
 }
