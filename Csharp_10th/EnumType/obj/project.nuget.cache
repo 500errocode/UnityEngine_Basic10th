@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "LvilmouO2AHMmkZOWJ/cpvlXH51jT5l9BsFwF61gNW2SocyWAdMk3DjRqSdAwj2kE+2Br3zxjvc6X3UIOVIWyQ==",
+  "dgSpecHash": "YhvxLeGaCiXQ3LOpDZpVCfAbZXp1nIxvgmUVCisPVLlXS3/MUTLeov66DpgkRfbpcgWVnOhiUvoNyv4yh65E5Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\Documents\\GitHub\\UnityEngine_Basic10th\\Csharp_10th\\EnumType\\EnumType.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

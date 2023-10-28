@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "IIbA0kh9kWBTK4jFuEGygLeAvXnPHaTS+heQncYaqULi5RZP4EubpaikBpDz/GeOpa/2Cwbfj09PkWU6hpH96A==",
+  "dgSpecHash": "kiDJap0qilk+vvu83z7nHej9w3xFTzlH3qTIbbGe584ngSa1Lb+DNEQFWWN0wWN6rkPlvtR0f5sWYHymWpfBSQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\Documents\\GitHub\\UnityEngine_Basic10th\\Csharp_10th\\Structure\\Structure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

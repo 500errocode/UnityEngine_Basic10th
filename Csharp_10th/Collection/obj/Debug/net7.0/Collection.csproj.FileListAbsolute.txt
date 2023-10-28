@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\UnityEngine_Basic10th\Csharp_10th\Collection\bin\Debug\net7.0\Collection.exe
+C:\Users\User\Documents\GitHub\UnityEngine_Basic10th\Csharp_10th\Collection\bin\Debug\net7.0\Collection.deps.json
+C:\Users\User\Documents\GitHub\UnityEngine_Basic10th\Csharp_10th\Collection\bin\Debug\net7.0\Collection.runtimeconfig.json
+C:\Users\User\Documents\GitHub\UnityEngine_Basic10th\Csharp_10th\Collection\bin\Debug\net7.0\Collection.dll
+C:\Users\User\Documents\GitHub\UnityEngine_Basic10th\Csharp_10th\Collection\bin\Debug\net7.0\Collection.pdb
+C:\Users\User\Documents\GitHub\UnityEngine_Basic10th\Csharp_10th\Collection\obj\Debug\net7.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\UnityEngine_Basic10th\Csharp_10th\Collection\obj\Debug\net7.0\Collection.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\UnityEngine_Basic10th\Csharp_10th\Collection\obj\Debug\net7.0\Collection.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\UnityEngine_Basic10th\Csharp_10th\Collection\obj\Debug\net7.0\Collection.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\UnityEngine_Basic10th\Csharp_10th\Collection\obj\Debug\net7.0\Collection.dll
+C:\Users\User\Documents\GitHub\UnityEngine_Basic10th\Csharp_10th\Collection\obj\Debug\net7.0\refint\Collection.dll
+C:\Users\User\Documents\GitHub\UnityEngine_Basic10th\Csharp_10th\Collection\obj\Debug\net7.0\Collection.pdb
+C:\Users\User\Documents\GitHub\UnityEngine_Basic10th\Csharp_10th\Collection\obj\Debug\net7.0\Collection.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\UnityEngine_Basic10th\Csharp_10th\Collection\obj\Debug\net7.0\ref\Collection.dll
